@@ -32,4 +32,4 @@
 Điểm bài tập: 0.5
 
 Tổng điểm bài tập lab 1: 6.0 
-(Tổng điểm thực của em là 4.0. Tuy nhiên học lực của em cô đánh giá mức khá, từ những lab sau em nên sử dụng những kiến thức trong lab đấy hoặc lab trước đó, không nên sử dụng những kiến thức cao siêu làm gì. Nắm chắc cơ bản từ ban đầu sau này sẽ dễ dành hơn)
+(Tổng điểm thực của em là 4.0. Tuy nhiên học lực của em cô đánh giá mức khá, từ những lab sau em nên sử dụng những kiến thức trong lab đấy hoặc lab trước đó, không nên sử dụng những kiến thức cao siêu làm gì. Nắm chắc cơ bản từ ban đầu sau này sẽ dễ dàng hơn)
