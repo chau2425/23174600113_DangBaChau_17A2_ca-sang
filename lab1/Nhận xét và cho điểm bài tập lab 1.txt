@@ -1,0 +1,35 @@
++ Em quá lạm dụng function, những bài đơn giản nhất cũng không nên sử dụng function
+
++ Nhận xét và cho điểm từng bài
+- Bài 1: sử dụng vòng lặp for, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 2: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 3: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 4: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 5: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 6: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 7: thiếu
+Điểm bài tập: 0
+
+- Bài 8: thiếu 
+Điểm bài tập: 0
+
+- Bài 9: sử dụng function, list kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 10: sử dụng function, list kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 1: 6.0 
+(Tổng điểm thực của em là 4.0. Tuy nhiên học lực của em cô đánh giá mức khá, từ những lab sau em nên sử dụng những kiến thức trong lab đấy hoặc lab trước đó, không nên sử dụng những kiến thức cao siêu làm gì. Nắm chắc cơ bản từ ban đầu sau này sẽ dễ dành hơn)
