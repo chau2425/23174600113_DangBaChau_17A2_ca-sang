@@ -1,0 +1,26 @@
+- Bài 1: sử dụng kiến thức ngoài kiến thức đã học ở các lab 
+Điểm bài tập: 1.0
+
+- Bài 2: 
+a) đúng. Nhưng em đã khai báo so_nguyen bằng 2, sao trong vòng lặp vẫn làm điều kiện so_nguyen <= 1? -> 0.75
+b) đúng
+c) đúng
+Điểm bài tập: 2.75
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4:
+a) đúng, hơi cồng kềnh chút xíu
+b) đúng
+c) đúng
+d) thiếu
+Điểm bài tập: 1.5
+
+- Bài 5: bài 5 đơn giản mà, sao em không làm?
+Điểm bài tập: 0
+
+- Bài 6: sử dụng kiến thức ngoài kiến thức đã học ở các lab 
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 4: 6.75
