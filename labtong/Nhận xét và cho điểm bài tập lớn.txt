@@ -1,0 +1,15 @@
+Nhận xét và cho điểm bài tập lớn:
+Code: 
++ Không rõ ràng về việc đặt ten_file trong hàm luu_ket_qua_csv: Tên file được truyền vào hàm nhưng không được sử dụng đúng cách.
++ Hàm tinh_xac_suat có thể gây lỗi nếu tong_so_lan_lac là 0: Điều này có thể xảy ra nếu danh sách ket_qua rỗng.
++ Không kiểm tra xác suất tổng trong xac_suat_ket_qua: Tổng các xác suất không được kiểm tra để đảm bảo bằng 1.
++ Không sử dụng cac_ket_qua_co_the đúng cách: cac_ket_qua_co_the không được sử dụng trong việc tính toán và lưu kết quả đúng cách.
+Điểm: 1.0
+
+File: Xuất được file csv
+Điểm: 4.0
+
+Có ảnh chạy code
+Điểm: 2.0
+
+Điểm bài tập lớn: 7.0
